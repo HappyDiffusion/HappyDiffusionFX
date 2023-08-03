@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.happydiffusion.com" target="_blank">
-    <img src="https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/Logo%20-%20Light.png" alt="HappyDiffusion FX Logo" style="width: 75%;">
+    <img src="https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/Logo%20-%20Dark.png" alt="HappyDiffusion FX Logo" style="width: 75%;">
   </a>
 </p>
 
