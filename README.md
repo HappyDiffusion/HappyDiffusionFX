@@ -12,7 +12,7 @@ HappyDiffusion FX is the default model for [HappyDiffusion.com](https://www.happ
 
 - **Thoroughly Tested:** We've put in considerable effort, testing hundreds of prompts to ensure the best possible outcomes.
 
-- **Results Refined:** A lot of labor of love has been put into refining the results and training the model.
+- **Meticulously Refined:** A lot of labor of love has been put into refining the final results and training the model.
 
 
 ## License
