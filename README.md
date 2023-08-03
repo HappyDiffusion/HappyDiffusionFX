@@ -1,11 +1,10 @@
-# HappyDiffusion FX 7 - Ultra-Realistic Image Model
-
 <p align="center">
   <a href="https://www.happydiffusion.com" target="_blank">
     <img src="https://raw.githubusercontent.com/HappyDiffusion/HappyDiffusionFX/main/Logo.png" alt="HappyDiffusion FX Logo" style="width: 50%;">
   </a>
 </p>
 
+# HappyDiffusion FX 7 - Ultra-Realistic Image Model
 
 HappyDiffusion FX is the default model for [HappyDiffusion.com](https://www.happydiffusion.com) focused on generating ultra realistic images.
 
