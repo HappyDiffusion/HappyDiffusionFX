@@ -8,6 +8,14 @@
 
 HappyDiffusion FX is the default model developed for [HappyDiffusion.com](https://www.happydiffusion.com), focused on generating ultra realistic images.
 
+## Table of Contents
+
+- [Features](#features)
+- [License](#license)
+- [Connect](#connect)
+- [Help](#help)
+- [Downloads](#downloads)
+
 ## Features
 
 - **Ultra-Realism:** We have carefully handpicked and merged over 200 realistic models on Civitai to create HappyDiffsuion FX. 
@@ -30,5 +38,8 @@ This model is licesed under CreativeML OpenRAIL-M license. However, there are on
 ## Connect
 - We would be glad if you join our Discord server.
 
-## Download
+## Help
+The easiest way to help us is to star the repo and help us get more visibility.
+
+## Downloads
 - [HuggingFace](https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/HappyDiffusion%20FX%207.safetensors)
