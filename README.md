@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.happydiffusion.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/HappyDiffusion/HappyDiffusionFX/main/Logo.png" alt="HappyDiffusion FX Logo" style="width: 50%;">
+    <img src="https://raw.githubusercontent.com/HappyDiffusion/HappyDiffusionFX/main/Logo.png" alt="HappyDiffusion FX Logo" style="width: 75%;">
   </a>
 </p>
 
@@ -33,7 +33,4 @@ This model is licesed under CreativeML OpenRAIL-M license. However, there are on
 - We would be glad if you join our Discord server.
 
 ## Downloads
-- Civitai
-- Hugging Face
-
-
+- [HuggingFace]([https://www.happydiffusion.com](https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/HappyDiffusion%20FX%207.safetensors)https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/HappyDiffusion%20FX%207.safetensors)
