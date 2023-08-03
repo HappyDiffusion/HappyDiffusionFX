@@ -16,7 +16,6 @@ HappyDiffusion FX is the default model developed for [HappyDiffusion.com](https:
 
 - **Extensively Refined:** A lot of labor of love has been put into refining the final results and training the model.
 
-
 ## License
 This model is licesed under CreativeML OpenRAIL-M license. However, there are only a few simple rules we'd ask you to adhere to:
 
@@ -27,7 +26,6 @@ This model is licesed under CreativeML OpenRAIL-M license. However, there are on
 - Credit us in any merges.
 
 - Do not resell the model.
-
 
 ## Connect
 - We would be glad if you join our Discord server.
