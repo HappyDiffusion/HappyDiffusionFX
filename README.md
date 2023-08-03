@@ -39,7 +39,7 @@ This model is licesed under CreativeML OpenRAIL-M license. However, there are on
 - We would be glad if you join our Discord server.
 
 ## Help
-The easiest way to help us is to star the repo and help us get more visibility.
+- The easiest way to help us is to star the repo and help us get more visibility.
 
 ## Downloads
 - [HuggingFace](https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/HappyDiffusion%20FX%207.safetensors)
