@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.happydiffusion.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/HappyDiffusion/HappyDiffusionFX/main/Logo.png" alt="HappyDiffusion FX Logo" style="width: 50%;">
+    <img src="https://raw.githubusercontent.com/HappyDiffusion/HappyDiffusionFX/main/Logo.png" alt="HappyDiffusion FX Logo" style="width: 75%;">
   </a>
 </p>
 
@@ -10,11 +10,11 @@ HappyDiffusion FX is the default model developed for [HappyDiffusion.com](https:
 
 ## Features
 
-- **Ultra-Realistic:** We have carefully handpicked and merged over 200 realistic models on Civitai to create HappyDiffsuion FX.
+- **Ultra-Realism:** We have carefully handpicked and merged over 200 realistic models on Civitai to create HappyDiffsuion FX. 
 
-- **Thoroughly Tested:** We've put in considerable effort, testing hundreds of prompts to ensure the best possible outcomes.
+- **Meticulously Trained:** We've put in considerable effort, testing hundreds of prompts to ensure the best possible outcomes. After going through 6 iterations, we have learned how to perfectly train the model to achieve images that look lifelike.
 
-- **Meticulously Refined:** A lot of labor of love has been put into refining the final results and training the model.
+- **Extensively Refined:** A lot of labor of love has been put into refining the final results and training the model.
 
 
 ## License
