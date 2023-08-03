@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# HappyDiffusion FX 7 - Ultra-Realistic Image Model
+# HappyDiffusion FX 7 - Ultra-Realistic Stable Diffusion Model
 
 HappyDiffusion FX is the default model developed for [HappyDiffusion.com](https://www.happydiffusion.com), focused on generating ultra realistic images.
 
