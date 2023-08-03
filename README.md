@@ -32,3 +32,8 @@ This model is licesed under CreativeML OpenRAIL-M license. However, there are on
 ## Connect
 - We would be glad if you join our Discord server.
 
+## Download
+- Civitai
+- Hugging Face
+
+
