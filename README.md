@@ -1,4 +1,4 @@
-# HappyDiffusion FX 7 - Ultra-Realistic Image Model
+# HappyDiffusion FX v7- Ultra-Realistic Image Model
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HappyDiffusion/HappyDiffusionFX/main/Logo.png" alt="HappyDiffusion FX Logo">
