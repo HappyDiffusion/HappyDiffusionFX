@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# HappyDiffusion FX 7 - Ultra-Realistic Stable Diffusion Model
+# HappyDiffusion FX - Ultra-Realistic Stable Diffusion Model
 
 HappyDiffusion FX is the default model developed for [HappyDiffusion.com](https://www.happydiffusion.com), focused on generating ultra realistic images.
 
@@ -27,7 +27,7 @@ HappyDiffusion FX is the default model developed for [HappyDiffusion.com](https:
 ## License
 This model is licesed under CreativeML OpenRAIL-M license. However, there are only a few simple rules we'd ask you to adhere to:
 
-- Always use the name of the model in any generation service which is "HappyDiffusion FX 7"
+- Always use the name of the model in any generation service which is "HappyDiffusion FX"
 
 - Do not change the name or obfuscate it.
 
@@ -36,7 +36,7 @@ This model is licesed under CreativeML OpenRAIL-M license. However, there are on
 - Do not resell the model.
 
 ## Connect
-- We would be glad if you join our Discord server.
+- We would be glad if you join our [Discord server.](https://discord.com/invite/HJWQKKzR)
 
 ## Help
 - The easiest way to help us is to star the repo and help us get more visibility.
