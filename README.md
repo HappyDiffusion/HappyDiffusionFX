@@ -42,4 +42,5 @@ This model is licesed under CreativeML OpenRAIL-M license. However, there are on
 - The easiest way to help us is to star the repo and help us get more visibility.
 
 ## Downloads
-- [HuggingFace](https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/HappyDiffusion%20FX%207.safetensors)
+- [HappyDiffusion FX 7](https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/HappyDiffusion%20FX%207.safetensors)
+- [HappyDiffusion FX 8](https://huggingface.co/HappyDiffusion/HappyDiffusionFX/resolve/main/HappyDiffusion%20FX%208.safetensors)
